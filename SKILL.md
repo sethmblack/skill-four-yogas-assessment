@@ -1,12 +1,10 @@
 ---
 name: four-yogas-assessment
-description: A practical framework for identifying which yoga path(s) best suit a
-  person's temperament and guiding their spiritual development, derived from Swami
-  Vivekananda's synthesis of the four classical y...
+description: A practical framework for identifying which yoga path(s) best suit a person's temperament and guiding their spiritual development, derived from Swami Vivekananda's synthesis of the four classical y...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - four-yogas-assessment
 - transformation
@@ -308,4 +306,3 @@ Derived from Swami Vivekananda's *Karma Yoga*, *Bhakti Yoga*, *Raja Yoga*, and *
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
