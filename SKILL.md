@@ -4,7 +4,8 @@ description: A practical framework for identifying which yoga path(s) best suit 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4041
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-yogas-assessment
 - transformation
